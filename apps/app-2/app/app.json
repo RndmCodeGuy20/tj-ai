@@ -1,0 +1,17 @@
+{
+  "id": "4ede34ee-bee4-449f-a92f-0796efc0b5cd",
+  "name": "app-2",
+  "type": "front-end",
+  "slug": "4ede34ee-bee4-449f-a92f-0796efc0b5cd",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-27T09:03:34.952Z",
+  "organizationId": "354f7d43-5e4e-4b59-9fd8-f32edf315e53",
+  "userId": "2e0460e2-f4ab-4e28-8146-33e789b69e6d",
+  "icon": "table",
+  "tooljetVersion": "3.21.10-beta-ee"
+}
