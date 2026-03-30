@@ -1,0 +1,17 @@
+{
+  "id": "c00f4573-d374-4a4e-a606-8c33a1f77cde",
+  "name": "app-git-1",
+  "type": "front-end",
+  "slug": "c00f4573-d374-4a4e-a606-8c33a1f77cde",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-30T07:07:01.094Z",
+  "organizationId": "114be40f-c5f7-4651-a69d-96264a48eaf5",
+  "userId": "183b2938-d27f-4cd2-8e2e-75133e6c4fe4",
+  "icon": "share",
+  "tooljetVersion": "3.21.10-beta-ee"
+}
