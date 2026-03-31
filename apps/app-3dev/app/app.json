@@ -1,0 +1,13 @@
+{
+  "id": "0771d50b-69b1-4da3-a913-8401574c7091",
+  "name": "app-3dev",
+  "type": "front-end",
+  "slug": "edeeb57d-043c-4915-868c-6984b83aad77",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "grid",
+  "tooljetVersion": "3.21.14-beta-ee"
+}
