@@ -3,15 +3,11 @@
   "name": "app-1",
   "type": "front-end",
   "slug": "90bbbe4c-2492-449c-86c4-72f0f05cc317",
-  "isPublic": null,
+  "isPublic": false,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
-  "currentVersionId": null,
-  "createdAt": "2026-03-27T06:33:03.929Z",
-  "organizationId": "354f7d43-5e4e-4b59-9fd8-f32edf315e53",
-  "userId": "2e0460e2-f4ab-4e28-8146-33e789b69e6d",
   "icon": "table",
-  "tooljetVersion": "3.21.10-beta-ee"
+  "tooljetVersion": "3.21.14-beta-ee"
 }
