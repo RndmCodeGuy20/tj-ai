@@ -1,0 +1,13 @@
+{
+  "id": "71a44964-dfad-4474-be28-743f6a928d8c",
+  "name": "app4-dev",
+  "type": "front-end",
+  "slug": "43a82f5b-8f06-4f2b-927c-ec1ce3eda820",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "share",
+  "tooljetVersion": "3.21.14-beta-ee"
+}
