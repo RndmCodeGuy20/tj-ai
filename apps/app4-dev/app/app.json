@@ -1,13 +1,13 @@
 {
-  "id": "0771d50b-69b1-4da3-a913-8401574c7091",
-  "name": "app-3dev",
+  "id": "71a44964-dfad-4474-be28-743f6a928d8c",
+  "name": "app4-dev",
   "type": "front-end",
-  "slug": "edeeb57d-043c-4915-868c-6984b83aad77",
-  "isPublic": false,
+  "slug": "43a82f5b-8f06-4f2b-927c-ec1ce3eda820",
+  "isPublic": null,
   "isMaintenanceOn": false,
   "__loaded": true,
   "aiGenerationMetadata": null,
   "appBuilderMode": "visual",
-  "icon": "grid",
+  "icon": "share",
   "tooljetVersion": "3.21.14-beta-ee"
 }
