@@ -1,0 +1,13 @@
+{
+  "id": "19f25615-856e-4027-ad15-5774361762bf",
+  "name": "app-auto-1",
+  "type": "front-end",
+  "slug": "5adbdfdd-8019-4c31-8f0f-d0ff4e921689",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "share",
+  "tooljetVersion": "3.21.15-beta-ee"
+}
