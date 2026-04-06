@@ -1,0 +1,13 @@
+{
+  "id": "c4da6fa6-bba5-46a9-b83f-6a823ef36473",
+  "name": "Gittest",
+  "type": "front-end",
+  "slug": "c4da6fa6-bba5-46a9-b83f-6a823ef36473",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "menuhome",
+  "tooljetVersion": "3.21.15-beta-ee"
+}

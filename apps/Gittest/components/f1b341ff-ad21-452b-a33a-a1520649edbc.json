@@ -1,0 +1,140 @@
+{
+  "id": "f1b341ff-ad21-452b-a33a-a1520649edbc",
+  "name": "filebutton1",
+  "type": "FileButton",
+  "pageId": "7e81b881-197a-4dbb-936c-4fe1dcdddd71",
+  "parent": null,
+  "properties": {
+    "buttonText": {
+      "value": "Upload file"
+    },
+    "enableMultiple": {
+      "value": "{{false}}",
+      "fxActive": false
+    },
+    "parseContent": {
+      "value": "{{false}}"
+    },
+    "parseFileType": {
+      "value": "auto-detect"
+    },
+    "delimiter": {
+      "value": ","
+    },
+    "enableClearSelection": {
+      "value": "{{true}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "labelSize": {
+      "value": "14"
+    },
+    "labelWeight": {
+      "value": "medium"
+    },
+    "labelColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "icon": {
+      "value": "IconHome2"
+    },
+    "iconVisibility": {
+      "value": false
+    },
+    "iconColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "iconDirection": {
+      "value": "left"
+    },
+    "loaderColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "contentAlignment": {
+      "value": "center"
+    },
+    "buttonType": {
+      "value": "solid"
+    },
+    "backgroundColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "borderRadius": {
+      "value": "6"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    },
+    "padding": {
+      "value": "default"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {
+    "enableValidation": {
+      "value": "{{false}}"
+    },
+    "fileType": {
+      "value": "*/*"
+    },
+    "minSize": {
+      "value": "{{0}}"
+    },
+    "maxSize": {
+      "value": "{{1048576}}"
+    },
+    "minFileCount": {
+      "value": "{{1}}"
+    },
+    "maxFileCount": {
+      "value": "{{2}}"
+    }
+  },
+  "layouts": [
+    {
+      "id": "38f1b7b9-249c-4011-bf59-321d2d93cb2b",
+      "type": "desktop",
+      "top": 350,
+      "left": 16,
+      "width": 10,
+      "height": 40,
+      "componentId": "f1b341ff-ad21-452b-a33a-a1520649edbc",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "bb15b66c-433f-4a5d-be25-014201a44214",
+      "type": "mobile",
+      "top": 350,
+      "left": 16,
+      "width": 10,
+      "height": 40,
+      "componentId": "f1b341ff-ad21-452b-a33a-a1520649edbc",
+      "dimensionUnit": "count"
+    }
+  ]
+}
