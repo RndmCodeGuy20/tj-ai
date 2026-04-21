@@ -1,3 +1,9 @@
 {
-  "lastUpdatedAt": "2026-03-31T14:30:39.258Z"
+  "60878d4d-686a-432f-8477-acb12e964580": {
+    "name": "db-no-1",
+    "kind": "postgresql",
+    "updatedAt": "2026-04-21T11:36:05.785Z",
+    "contentHash": "c0d03249d899c50dd3210a32e6e30e3254c4c5c6ae43d873adff185e56ac6796"
+  },
+  "lastUpdatedAt": "2026-04-21T11:36:05.785Z"
 }
